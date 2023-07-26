@@ -84,7 +84,7 @@ def ascii_vro():
     clear()
 
 def si():
-    print('         \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mZxC \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to FHX PN! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: zxcr9999 \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.1')
+    print('         \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mFHX \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to FHX PN! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: FAHX7NONEXEC \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.3')
     print("")
 
 def tools():
